@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for((i=0;i<10;i++))
+for i in $(seq 5)
 do
 echo ----$i----
 echo $(pwd)
