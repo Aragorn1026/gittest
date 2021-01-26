@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
 print("---------猜数字---------")
 index = 0
 while True:
