@@ -3,4 +3,4 @@
 sh ./echo.sh
 sh ./branch.sh
 sh ./for.sh
-python guessNumber.py
+#python guessNumber.py
